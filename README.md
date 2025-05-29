@@ -36,14 +36,14 @@ This notebook includes:
 
 ## 📈 Sample Visuals
 
-### 🔟 Top 10 Most Recently Added Titles
-![recent-titles](images/recent_titles.png)
+### 🔟 Top 10 Countries
+![recent-titles](images/top10countries.png)
 
 ### 🎭 Genre Distribution
-![genre-distribution](images/genre_distribution.png)
+![genre-distribution](images/top10genre.png)
 
 ### 📅 Content Release Over the Years
-![release-years](images/release_trend.png)
+![release-years](images/contentperyear.png)
 
 ---
 
