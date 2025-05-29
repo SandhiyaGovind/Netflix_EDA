@@ -40,7 +40,7 @@ This notebook includes:
 ![recent-titles](images/top10countries.png)
 
 ### 🎭 Genre Distribution
-![genre-distribution](images/top10genre.png)
+![genre-distribution](images/top10genres.png)
 
 ### 📅 Content Release Over the Years
 ![release-years](images/contentperyear.png)
